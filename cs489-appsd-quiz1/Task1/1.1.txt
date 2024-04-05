@@ -1,0 +1,8 @@
+1.1
+Functional Requirements:
+
+Add new contacts with first name, last name, company, job title, phone numbers, and email addresses.
+Update existing contacts.
+Delete old contacts.
+Search contacts by various criteria.
+Merge duplicate contacts.
